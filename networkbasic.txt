@@ -1,0 +1,78 @@
+ 			Network
+Two and multiplue device are connected with each other it's called network.
+Networking:- 
+=========================================================================
+Intranet :-
+Internet :-
+Extranet :-
+=============================================================
+Node :-
+Host :-
+Subnet :- 
+Gateway point :- 
+transmission mode :-
+	Guided Media(Wire network) :- Ethernet(Lan) Cable, Fiberoptic cabel,
+				Coxiale Cable
+	Unguided Media(Wireless network) :- Infrared, Microwave, Radiowave,
+					NFS-NFC
+======================================================================================
+Network Types
+LAN(Local Area Network) :- Two and more than computer device's are connected in a same 
+	network it's called as LAN.
+MAN(Metropolitin Area Network) :- Two and more than LAN network are connected with each 
+		other it's called as MAN.
+WAN(Wide Area Network) :- Two and more than MAN network are connected with each 
+		other it's called as WAN
+CAN(Campus Area Network)
+PAN(private Area Network) /HAN(Home Area Network)
+WLAN(Wireless Local Area Network)
+======================================================================================
+Comunication mode :-
+		 Simplex
+		Half Duplex
+		Full Duplex
+==================================================================================
+Transmission mode:-
+		Unicast
+		Multicast 
+		Broadcast
+		Anycast
+
+Ethernet		:- 10 mbps
+Fastethernet		:- 100 mbps
+Gigabitethernet		:- 1 Gbps
+Ten-Gigabitethernet	:- 10 Gbps
+
+
+Ethernet cable types
+i) Straight cable :- use in different device's
+		both side same color code
+ii) crossover cable :- use in same device's
+		both side different color code
+iii) Rollover cable :- use to configure router or modem.
+		one side 568 A or B, next point reverse
+Ethernet cable categories.
+i) Cat1 :- 1 mbps
+ii) Cat2 :- 4 mbps
+iii) Cat3 :- 10 mbps
+iv) Cat4 :- 16 mbps
+v) Cat5e :- 100 mbps
+vi) Cat6 :- 1 gbps
+vii) Cat6e :- 10 gbps
+viii) Cat7 :- 10 gbps with best bandwith
+
+568A		568B		
+g/w		O/W
+G		O
+O/w		Gr/W
+Blue		blue
+B/W		b/W
+O		G
+Br/W		Br/W
+Br		Br
+
+
+
+
+
+
